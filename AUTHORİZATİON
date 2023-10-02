@@ -21,4 +21,4 @@ Yetkilendirme süreci, kimlik doğrulamanın başarıyla tamamlandığından ve 
 Kullanıcı veya sistem, belirli bir kaynağa veya işleve erişim talebinde bulunduğunda, yetkilendirme mekanizması ilgili kullanıcının veya sistemin izinlerini denetler ve talebi kabul eder veya reddeder.
 
 Yetkilendirme, bilgi güvenliği açısından kritik bir öneme sahiptir çünkü doğru şekilde yapılmazsa hassas bilgilere veya sistemlere yetkisiz erişimler mümkün hale gelebilir.
-Bu nedenle, güçlü yetkilendirme mekanizmaları kullanmak ve düzenli olarak izinlerin gözden geçirilmesi, güvenlik önlemleri arasında yer alır.
+Bu nedenle, güçlü yetkilendirme mekanizmaları kullanmak ve düzenli olarak izinlerin gözden geçirilmesi, güvenlik önlemleri arasında yer alır
