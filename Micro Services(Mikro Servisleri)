@@ -1,0 +1,14 @@
+Microservices yani mikroservis mimarisi farklı iş yeteneklerinin birbirinden bağımsız bir şekilde yapılandırıldığı mimari bir modeldir. Bu mimaride büyük sistemler her biri farklı bir işten sorumlu ve birbirinden bağımsız daha küçük servislere ayrılır. Sahne arkasında tüm bu servisler microservice (mikroservis) olarak adlandırılır.
+
+Mikroservis kısaca bağımsız çalıştırılabilen, her birinin ayrı ve belirli bir sorumluluğu olan boyutu küçük servis demektir.
+
+Bu yaklaşım SOA’dan (Service Oriented Architecture) ilham almıştır ve her ikisi de client-server yani istemci-sunucu mimarisinden gelmektedir. Mikroservis mimarisi, SOA’nın kendine özgü olacak şekilde bir uzantısı olarak görülebilir. Bu mimarilerin genel gelişim süreci şu şekildedir:
+Yalnız mikroservis mimarisi servis odaklı mimarinin (SOA) tasarım ilkeleri birebir aynı değildir. SOA ile arasında farklılıklar bulunmaktadır. Service Oriented Architecture kurumsal seviyede bir mimari iken Microservice Architecture uygulama seviyesinde bir mimaridir. Önemli diğer farklılıkları ilgili başlık altında inceleyebilirsiniz.
+
+İlk olarak Martin Fowler ve James Lewis tarafından tartışılan mikroservis mimarisi dağıtım kolaylığı, esneklik ve ölçekleme gibi çeşitli avantajlar sağlar.
+
+Mikroservis mimarisinin en önemli özelliklerinden biri veri yapılarını paylaşmamasıdır. Her mikroservis kendi veri depolama alanına sahiptir (veritabanı şeması veya tablo gibi.) Yani her biri kendi veri modelinden ve verilerinden sorumludur. Diğer servisler sahibi olmadığı depolama alanına erişemezler.
+
+Mikroservisler API adı verilen arayüzler aracılığıyla basit protokolleri kullanarak iletişim kurabilirler. Şu aşamada interface ile iletişim kurabildiklerini bilmek yeterlidir.
+
+Genel olarak API Gateway adı verilen sisteme tek giriş noktası oluşturulur. Sisteme istek yapan kullanıcılar doğrudan mikroservislere istek yapmak yerine bunun üzerinden istek yapar. Burada yönlendirme, yetkilendirme gibi işlemler yapılır. Bu işlem için arka planda birden fazla mikroservise istek yapılabilir. Sonunda kullanıcıya tek bir sonuç dönülür.
