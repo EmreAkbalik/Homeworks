@@ -2,3 +2,23 @@ AUTHORİZATİON(yetki)
 HTTP Authorizationistek başlığı, bir kullanıcı aracısının kimliğini bir sunucuyla doğrulayan ve korunan bir kaynağa erişime izin veren kimlik bilgileri sağlamak için kullanılabilir.
 
 Başlık Authorization, her zaman olmasa da genellikle kullanıcı aracısının, kimlik bilgileri olmadan korunan bir kaynağı ilk kez isteme girişiminde bulunmasından sonra gönderilir. Sunucu, en az bir başlık içeren bir mesajla yanıt verir . Bu başlık, kaynağa erişmek için hangi kimlik doğrulama şemalarının kullanılabileceğini (ve istemcinin bunları kullanmak için ihtiyaç duyduğu ek bilgileri) gösterir. Kullanıcı aracısı, sunulanlar arasından desteklediği en güvenli kimlik doğrulama şemasını seçmeli, kullanıcıdan kimlik bilgilerini istemeli ve ardından kaynağı yeniden talep etmelidir (başlıktaki kodlanmış kimlik bilgileri dahil) . 
+
+Yetkilendirme süreci, genellikle aşağıdaki temel bileşenleri içerir:
+
+Kimlik Doğrulama (Authentication): Kullanıcıların veya sistemlerin kimliklerini doğrulamak için kullanılır.
+Kimlik doğrulama, kullanıcıların kimlik bilgilerini (kullanıcı adı ve şifre gibi) veya diğer kimlik doğrulama yöntemlerini (biyometrik veriler veya tek kullanımlık kodlar gibi) kullanarak kendilerini tanıttığı süreci ifade eder.
+
+Yetki Veritabanı (Authorization Database): Kullanıcıların veya sistemlerin erişim izinlerini saklayan bir veritabanıdır.
+Bu veritabanı, hangi kullanıcıların hangi kaynaklara veya işlevlere erişim iznine sahip olduğunu tanımlar. Genellikle bir rol ve izin bazlı yapısı vardır.
+
+İzinler (Permissions): İzinler, bir kullanıcının veya sistemin belirli bir kaynağa veya işleve erişim düzeyini tanımlar.
+Örneğin, bir kullanıcının belirli bir dosyayı okuma veya yazma izni olabilir.
+
+Rol (Role): Roller, benzer izinlere sahip kullanıcıları veya sistemleri gruplamak için kullanılır.
+Roller, erişim izinlerini daha iyi yönetmek ve kullanıcıların veya sistemlerin belirli görevlere veya rollerle sınırlı erişim sağlamak için kullanılır.
+
+Yetkilendirme süreci, kimlik doğrulamanın başarıyla tamamlandığından ve kullanıcının veya sistemin tanımlandığından emin olduktan sonra devreye girer.
+Kullanıcı veya sistem, belirli bir kaynağa veya işleve erişim talebinde bulunduğunda, yetkilendirme mekanizması ilgili kullanıcının veya sistemin izinlerini denetler ve talebi kabul eder veya reddeder.
+
+Yetkilendirme, bilgi güvenliği açısından kritik bir öneme sahiptir çünkü doğru şekilde yapılmazsa hassas bilgilere veya sistemlere yetkisiz erişimler mümkün hale gelebilir.
+Bu nedenle, güçlü yetkilendirme mekanizmaları kullanmak ve düzenli olarak izinlerin gözden geçirilmesi, güvenlik önlemleri arasında yer alır.
