@@ -3,6 +3,7 @@ Oturum Çerezi nedir?
 Oturum çerezi, bir web sitesinin geçici kullanım için ziyaretçisinin cihazına yüklediği basit bir metin dosyasıdır. E-ticaret web sitelerinde alışveriş yaparken ürün eklemek gibi, kullanıcının bir web sitesindeki etkinliklerindeki gerçek zamanlı değişiklikleri izlemeye yardımcı olur. Çoğu web sitesinde oturum çerezleri varsayılan olarak etkindir, çünkü bu, web sayfalarının daha hızlı yüklenmesine yardımcı olur ve kullanıcı için gezinmeyi kolaylaştırır.
 
 Geçici çerez veya geçici çerez olarak da bilinen oturum çerezi, yalnızca her tarama oturumu sırasında etkindir ve her tarama oturumunun sonunda, kullanıcı web tarayıcısından çıktığında otomatik olarak silinecek şekilde programlanmıştır. Kullanıcılar ayrıca tarama oturumları sırasında oturum çerezlerinin kullanımını manuel olarak da kısıtlayabilirler.
+
 Oturum Çerezi Nasıl Çalışır?
 Oturum çerezi sunucuya özeldir. Bu, bir oturum çerezinin, çerezi oluşturan makine dışındaki herhangi bir makine tarafından okunamayacağı veya bu makineye erişilemeyeceği anlamına gelir. Söz konusu sunucu, kullanıcının ziyaret ettiği web sitesini barındıran sunucudur. Aynı sunucu aynı zamanda bir " oturum kimliği " de oluşturur. Oturum kimliği, oturum çerezlerini saklayan benzersiz, rastgele oluşturulmuş bir sayıdır.
 
