@@ -1,0 +1,4 @@
+yetki
+HTTP Authorizationistek başlığı, bir kullanıcı aracısının kimliğini bir sunucuyla doğrulayan ve korunan bir kaynağa erişime izin veren kimlik bilgileri sağlamak için kullanılabilir.
+
+Başlık Authorization, her zaman olmasa da genellikle kullanıcı aracısının, kimlik bilgileri olmadan korunan bir kaynağı ilk kez isteme girişiminde bulunmasından sonra gönderilir. Sunucu, en az bir başlık içeren bir mesajla yanıt verir . Bu başlık, kaynağa erişmek için hangi kimlik doğrulama şemalarının kullanılabileceğini (ve istemcinin bunları kullanmak için ihtiyaç duyduğu ek bilgileri) gösterir. Kullanıcı aracısı, sunulanlar arasından desteklediği en güvenli kimlik doğrulama şemasını seçmeli, kullanıcıdan kimlik bilgilerini istemeli ve ardından kaynağı yeniden talep etmelidir (başlıktaki kodlanmış kimlik bilgileri dahil) . 
