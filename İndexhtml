@@ -22,7 +22,7 @@
 
 <p><label for="fatih">Fatih:</label>
 
-<meter id="fatih"min="0" low="40" high="90" max="100" value="70"></meter><span id="not3">70</span></p>
+<meter id="fatih"min="0" low="40" high="90" max="100" value="70"></meter><span id="not3">90</span></p>
 
 <button onclick="aztikla('fatih','not3')">-</button><button onclick="coktikla('fatih','not3')">+</button>
 
