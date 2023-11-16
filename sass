@@ -1,0 +1,63 @@
+SASS AÇILIMI;
+SASS, Syntactically Awesome Style Sheets(Sözdizimsel Müthiş Stil Sayfaları)
+
+bir stil sayfası dili olarak kullanılan ve özellikle CSS'in yazımını daha etkili ve yönetilebilir hale getirmek amacıyla geliştirilmiş bir CSS önprosesörüdür.
+ Sass, daha fazla özellik ve esneklik sunarak CSS kodlarını daha düzenli ve okunabilir hale getirmeyi amaçlar.
+
+Sass'ın temel özellikleri şunlardır:
+
+1.Değişkenler
+Değişkenler, belirli bir değeri depolamak ve kullanmak için kullanılır.
+Bu, renklerden font büyüklüklerine kadar birçok değeri daha kolay yönetmeyi sağlar.
+
+2.Yer tutucu (Placeholder)
+Seçiciler Yer tutucu seçiciler, stil kurallarını tanımlamanın bir yolu olarak kullanılır ve başka bir yerde çağrılabilir.
+
+3.İç İçe Geçmiş Seçiciler (Nested Selectors)
+Sass, CSS kurallarını iç içe geçmiş bir yapıda yazmanıza izin verir, bu da kodun daha düzenli görünmesini sağlar.
+
+4.Operatörler ve İşlemler
+Matematiksel operatörler kullanarak değerleri birbirine ekleyebilir, çıkartabilir, çarpar veya bölebilirsiniz.
+
+Sass, stil sayfalarını daha modüler, sürdürülebilir ve okunabilir kılarak CSS geliştirmeyi kolaylaştırır.
+Bu özellikleri sayesinde büyük ve karmaşık projelerde daha etkili bir şekilde çalışmayı saglar.
+
+
+Sass'ı kullanmak için aşağıdaki adımları takip edebilirsiniz:
+
+1.Sass İndirme ve Kurma:
+Sass, Ruby programlama diline dayanır, bu nedenle önce Ruby'yi bilgisayarınıza yüklemeniz gerekebilir.
+Daha sonra terminal veya komut istemcisine şu komutu yazarak Sass'ı yükleyebilirsiniz:
+
+    gem install sass
+
+
+2.Sass Dosyası Oluşturma:
+Projenizin kök dizininde, `.scss` veya `.sass` uzantılı bir Sass dosyası oluşturun.
+Genellikle `.scss` uzantısını tercih edilir, çünkü bu, Sass'ın SCSS sözdizimini kullanacağınız anlamına gelir.
+
+
+3.Sass Dosyasını Derleme:
+Oluşturduğunuz Sass dosyasını, tarayıcılar tarafından anlaşılabilen CSS dosyalarına derlemeniz gerekmektedir.
+Bu işlemi terminal veya komut istemcisinde şu komutla gerçekleştirebilirsiniz:
+
+   sass dosya.scss dosya.css
+
+Bu komut, `dosya.scss`'yi derleyerek `dosya.css`'yi oluşturacaktır.
+
+
+4.Sürekli Derleme İzleme (Opsiyonel):
+Geliştirme sırasında sürekli olarak Sass dosyanızı derlemek istiyorsanız, izleme modunu kullanabilirsiniz.
+Terminal veya komut istemcisinde şu komutu kullanabilirsiniz:
+
+    sass --watch dosya.scss:dosya.css
+
+Bu komut, `dosya.scss`'yi izleyecek ve her değişiklikte otomatik olarak `dosya.css`'yi güncelleyecektir.
+
+
+5.HTML Dosyanızda CSS Bağlantısını Ekleyin:
+Derlenen CSS dosyanızı HTML dosyanıza bağlamayı unutmayın. Örneğin:
+
+   <link rel="stylesheet" type="text/css" href="dosya.css">
+
+Bu adımları takip ederek Sass'ı projenizde kullanabilir ve Sass'ın sunduğu avantajlardan faydalanabilirsiniz.
