@@ -1,0 +1,52 @@
+
+
+Proje Tanımı: Bu proje, spor tutkunlarına en iyi spor ekipmanlarını sunmayı hedefleyen kapsamlı bir e-ticaret platformu oluşturmayı amaçlamaktadır. Platform, kullanıcı dostu bir arayüze sahip olacak, güvenli ödeme seçenekleri sunacak ve spor malzemeleri satıcılarına geniş bir müşteri kitlesi sağlayacaktır.
+
+Hedef Kitle:
+
+Müşteri (Spor Tutkunu): Spor yapmayı seven ve ihtiyaç duydukları spor ekipmanlarını çevrimiçi olarak satın almak isteyen bireyler.
+
+Spor Malzemeleri Satıcıları: Spor ekipmanları ve ürünleri satan işletmeler ve bireyler.
+
+Proje Hedefleri:
+
+Kullanıcıların kolayca spor ekipmanlarını bulabilecekleri ve satın alabilecekleri kullanıcı dostu bir platform sağlamak.
+
+Güvenli ödeme seçenekleri sunarak kullanıcıların güvenli bir alışveriş deneyimi yaşamalarını sağlamak.
+
+Spor malzemeleri satıcılarına geniş bir müşteri kitlesi sunarak satışlarını artırmak.
+
+E-ticaret platformunu, kullanıcı geri bildirimlerine dayanarak sürekli olarak iyileştirmek.
+
+Proje Aşamaları:
+
+İhtiyaç Analizi ve Planlama: Müşteri ihtiyaçlarının belirlenmesi, hedeflerin saptanması ve proje planının oluşturulması.
+
+Tasarım ve Geliştirme: Kullanıcı arayüzü tasarımı, backend ve frontend geliştirme süreçleri.
+
+Test ve Kalite Güvencesi: Platformun test edilmesi, hata ayıklama ve performans testleri.
+
+Dağıtım ve Yayınlama: Canlıya alma süreci, sunuculara yükleme ve alan adı ilişkilendirmesi.
+
+Sürekli Bakım ve Güncelleme: Platformun sürekli olarak bakımı ve güncellenmesi, müşteri geri bildirimlerine dayalı iyileştirmeler.
+
+Proje Çıktıları:
+
+Kullanıcı dostu bir e-ticaret platformu.
+
+Güvenli ödeme seçenekleri ve veri koruma önlemleri.
+
+Geniş ürün yelpazesi ve satıcı ağı.
+
+Müşteri memnuniyetini artıran sürekli iyileştirmeler.
+
+Bu proje, spor malzemeleri alışverişini çevrimiçi hale getirerek kullanıcıların ve satıcıların ihtiyaçlarını karşılayan kapsamlı bir çözüm sunmayı amaçlamaktadır.
+
+
+Kullanılacak Yazılım Dilleri ;
+
+1-)Html 
+2-)CSS
+3-) JavaScript
+4-)ASP.Net Mvc
+5-)SQL server
