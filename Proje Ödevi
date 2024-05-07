@@ -1,50 +1,29 @@
-Proje Adı:FUTT SHOPP
 
 
-Proje Tanımı: Bu proje, spor tutkunlarına en iyi spor ekipmanlarını sunmayı hedefleyen kapsamlı bir e-ticaret platformu oluşturmayı amaçlamaktadır. Platform, kullanıcı dostu bir arayüze sahip olacak, güvenli ödeme seçenekleri sunacak ve spor malzemeleri satıcılarına geniş bir müşteri kitlesi sağlayacaktır.
+Proje Adı: "Spor Dünyası: Heyecan Dolu Bir Macera"
 
-Hedef Kitle:
+Amaç ve Hedef Kitle: Spor Dünyası, spor tutkunları için bilgilendirici ve eğlenceli içerikler sunmayı amaçlayan bir blog sitesidir. Amacımız, sporla ilgilenen her yaştan bireye hitap etmek ve bir spor topluluğu oluşturmaktır.
 
-Müşteri (Spor Tutkunu): Spor yapmayı seven ve ihtiyaç duydukları spor ekipmanlarını çevrimiçi olarak satın almak isteyen bireyler.
+Özellikler:
+1. Çoklu Spor Kapsamı: Futbol, basketbol, tenis, voleybol, yüzme ve diğer pek çok spor dalına dair içerikler sunulacak.
+2. Görsel Zenginlik: Fotoğraflar, infografikler, ve videolarla desteklenmiş görsel açıdan zengin içerikler sunulacak.
+3. Haberler ve Analizler: Güncel spor haberleri ve derinlemesine analizlerle okuyuculara en son gelişmeler hakkında bilgi sağlanacak.
+4. **Sporcu Profil Yazıları:** Ünlü sporcuların kariyerleri, başarıları ve ilham verici hikayeleri hakkında detaylı profil yazıları sunulacak.
+5. **Okuyucu Katılımı:** Okuyucuların görüşlerini paylaşabilecekleri yorum bölümleri ve anketlerle etkileşim sağlanacak.
 
-Spor Malzemeleri Satıcıları: Spor ekipmanları ve ürünleri satan işletmeler ve bireyler.
+**İçerik Stratejisi:**
+1. **Maç Öncesi ve Sonrası Analizler:** Önemli spor etkinlikleri öncesinde ve sonrasında maç özeti, oyuncu performansları ve taktik analizler sunulacak.
+2. **Eğitim ve Sağlık İpuçları:** Spor yaparken dikkat edilmesi gerekenler, antrenman teknikleri ve beslenme önerileri gibi eğitici içerikler paylaşılacak.
+3. **Tarihçe ve Geriye Dönüş:** Spor tarihine ve unutulmaz anılara dair ilginç yazılar ve videolar sunulacak.
+4. **Spor Etkinlikleri ve Organizasyonlar:** Yerel ve uluslararası spor etkinlikleri, turnuvalar ve organizasyonlar hakkında duyurular ve bilgilendirici içerikler sunulacak.
 
-Proje Hedefleri:
+**Pazarlama Stratejisi:**
+1. **Sosyal Medya Promosyonları:** Facebook, Twitter, Instagram gibi platformlarda etkileşimli ve ilgi çekici içerikler paylaşılacak.
+2. **SEO Odaklı İçerikler:** Arama motorlarında üst sıralarda yer almak için SEO stratejileri uygulanacak.
+3. **E-posta Bültenleri:** Abonelere düzenli olarak içerik güncellemeleri ve özel spor etkinlikleri hakkında bilgilendirme yapılacak.
+4. **Sponsorluk ve İşbirlikleri:** Spor markaları ve etkinliklerle işbirlikleri yaparak geniş kitlelere ulaşılacak. ;
 
-Kullanıcıların kolayca spor ekipmanlarını bulabilecekleri ve satın alabilecekleri kullanıcı dostu bir platform sağlamak.
-
-Güvenli ödeme seçenekleri sunarak kullanıcıların güvenli bir alışveriş deneyimi yaşamalarını sağlamak.
-
-Spor malzemeleri satıcılarına geniş bir müşteri kitlesi sunarak satışlarını artırmak.
-
-E-ticaret platformunu, kullanıcı geri bildirimlerine dayanarak sürekli olarak iyileştirmek.
-
-Proje Aşamaları:
-
-İhtiyaç Analizi ve Planlama: Müşteri ihtiyaçlarının belirlenmesi, hedeflerin saptanması ve proje planının oluşturulması.
-
-Tasarım ve Geliştirme: Kullanıcı arayüzü tasarımı, backend ve frontend geliştirme süreçleri.
-
-Test ve Kalite Güvencesi: Platformun test edilmesi, hata ayıklama ve performans testleri.
-
-Dağıtım ve Yayınlama: Canlıya alma süreci, sunuculara yükleme ve alan adı ilişkilendirmesi.
-
-Sürekli Bakım ve Güncelleme: Platformun sürekli olarak bakımı ve güncellenmesi, müşteri geri bildirimlerine dayalı iyileştirmeler.
-
-Proje Çıktıları:
-
-Kullanıcı dostu bir e-ticaret platformu.
-
-Güvenli ödeme seçenekleri ve veri koruma önlemleri.
-
-Geniş ürün yelpazesi ve satıcı ağı.
-
-Müşteri memnuniyetini artıran sürekli iyileştirmeler.
-
-Bu proje, spor malzemeleri alışverişini çevrimiçi hale getirerek kullanıcıların ve satıcıların ihtiyaçlarını karşılayan kapsamlı bir çözüm sunmayı amaçlamaktadır.
-
-
-Kullanılacak Yazılım Dilleri ;
+kaynakça;
 
 1-)Html 
 2-)CSS
