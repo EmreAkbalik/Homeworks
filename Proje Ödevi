@@ -1,35 +1,33 @@
+Proje Adı: "SporZ: Spor ve Teknoloji Platformu"
 
+1 Amaç ve Hedef Kitle:
 
-Proje Adı: "Spor Dünyası: Heyecan Dolu Bir Macera"
+"SporZ", spor ve teknolojiyi bir araya getirerek, spor tutkunlarına bilgi, eğlence ve ilham sunmayı amaçlayan dinamik bir platformdur. Amacımız, hem spor hem de teknoloji dünyasından geleneksel ve yenilikçi içerikleri bir araya getirerek, spor tutkunlarının ilgisini çekmek ve onları bilgilendirmektir. Bu platform, spor ve teknolojiye ilgi duyan herkesi kapsar: sporcular, teknoloji meraklıları, yazılımcılar ve spor severler.
 
-Amaç ve Hedef Kitle: Spor Dünyası, spor tutkunları için bilgilendirici ve eğlenceli içerikler sunmayı amaçlayan bir blog sitesidir. Amacımız, sporla ilgilenen her yaştan bireye hitap etmek ve bir spor topluluğu oluşturmaktır.
+2 İçerik ve Konu Başlıkları:
 
-Özellikler:
-1. Çoklu Spor Kapsamı: Futbol, basketbol, tenis, voleybol, yüzme ve diğer pek çok spor dalına dair içerikler sunulacak.
-2. Görsel Zenginlik: Fotoğraflar, infografikler, ve videolarla desteklenmiş görsel açıdan zengin içerikler sunulacak.
-3. Haberler ve Analizler: Güncel spor haberleri ve derinlemesine analizlerle okuyuculara en son gelişmeler hakkında bilgi sağlanacak.
-4. **Sporcu Profil Yazıları:** Ünlü sporcuların kariyerleri, başarıları ve ilham verici hikayeleri hakkında detaylı profil yazıları sunulacak.
-5. **Okuyucu Katılımı:** Okuyucuların görüşlerini paylaşabilecekleri yorum bölümleri ve anketlerle etkileşim sağlanacak.
+Spor Haberleri ve Analizleri: En son spor haberleri, maç analizleri, transfer dedikoduları ve spor dünyasındaki güncel gelişmeler hakkında içerikler.
+Antrenman ve Performans: Sporcular için antrenman programları, beslenme tavsiyeleri, performans artırıcı teknikler ve spor psikolojisi üzerine yazılar.
+Spor Kültürü ve Tarih: Sporun kültürel etkileri, tarihi anekdotlar, efsanevi sporcuların portreleri ve unutulmaz spor olayları hakkında içerikler.
+Seyahat ve Macera Sporları: Spor tutkunları için seyahat rehberleri, dağcılık, yelken ve diğer macera sporları hakkında içerikler.
+Eğlence ve Mizah: Sporla ilgili komik videolar, spor temalı espriler ve eğlenceli spor etkinlikleri hakkında yazılar.
 
-**İçerik Stratejisi:**
-1. **Maç Öncesi ve Sonrası Analizler:** Önemli spor etkinlikleri öncesinde ve sonrasında maç özeti, oyuncu performansları ve taktik analizler sunulacak.
-2. **Eğitim ve Sağlık İpuçları:** Spor yaparken dikkat edilmesi gerekenler, antrenman teknikleri ve beslenme önerileri gibi eğitici içerikler paylaşılacak.
-3. **Tarihçe ve Geriye Dönüş:** Spor tarihine ve unutulmaz anılara dair ilginç yazılar ve videolar sunulacak.
-4. **Spor Etkinlikleri ve Organizasyonlar:** Yerel ve uluslararası spor etkinlikleri, turnuvalar ve organizasyonlar hakkında duyurular ve bilgilendirici içerikler sunulacak.
+3 Öne Çıkan Özellikler:
 
-**Pazarlama Stratejisi:**
-1. **Sosyal Medya Promosyonları:** Facebook, Twitter, Instagram gibi platformlarda etkileşimli ve ilgi çekici içerikler paylaşılacak.
-2. **SEO Odaklı İçerikler:** Arama motorlarında üst sıralarda yer almak için SEO stratejileri uygulanacak.
-3. **E-posta Bültenleri:** Abonelere düzenli olarak içerik güncellemeleri ve özel spor etkinlikleri hakkında bilgilendirme yapılacak.
-4. **Sponsorluk ve İşbirlikleri:** Spor markaları ve etkinliklerle işbirlikleri yaparak geniş kitlelere ulaşılacak. ;
+Kullanıcı Dostu Arayüz: Sade ve kolay gezinilebilir bir arayüz, ziyaretçilerin istedikleri içeriği hızlıca bulmalarını sağlar.
+Güncel İçerikler: Sürekli güncellenen ve çeşitli konuları kapsayan içerikler, okuyucuların siteyi düzenli olarak ziyaret etmelerini sağlar.
+Etkileşim ve Katılım: Okuyucularla etkileşimi artırmak için yorum bölümleri ve sosyal medya entegrasyonu sağlanır.
+Çoklu Platform Desteği: Mobil uyumlu tasarım ve farklı cihazlarda sorunsuz erişim, herkesin bloga kolayca erişmesini sağlar.
 
-kaynakça;
+4 Gelişme Süreci ve Ekibimiz:
 
-1-)Html 
-2-)CSS
-3-) JavaScript
-4-)ASP.Net Mvc
-5-)SQL server
+"Sporcu'nun Köşesi" projesi, bir ekip işi olarak başladı. Yazılımcılar, tasarımcılar, spor uzmanları ve içerik editörleri, projenin farklı yönlerini ele almak için bir araya geldi. Sürekli olarak yeni fikirler üretiliyor ve okuyucuların beklentilerini karşılamak için çaba harcanıyor.
 
+5 Sonuç:
 
+"SporZ", spor ve teknolojiyi bir araya getirerek, spor tutkunlarına yenilikçi ve ilgi çekici içerikler sunan bir platformdur. Hem spor hem de teknoloji dünyasından en son gelişmeleri takip eden, yenilikçi projelere ilgi duyan herkesi hedefler.
 
+KAYNAKÇA;
+HTML, CSS ve JavaScript: Temel web sayfası yapılandırması ve görsel tasarım için HTML, CSS ve JavaScript kullanılacak.
+ASP.NET MVC: Web uygulamasının geliştirilmesi ve sunucu tarafındaki işlemler için ASP.NET MVC kullanılacak.
+Veritabanı Yönetimi: Veritabanı olarak SQL Server ve Entity Framework araçları kullanılarak veritabanı işlemleri gerçekleştirilecek.
